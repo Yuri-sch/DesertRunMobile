@@ -6,6 +6,8 @@ Infelizmente, eu não consegui exportar todo o meu projeto, pois alguns arquivos
 
 Por conta disso, nesse Git estão só os arquivos que tive que modificar para abrir o jogo como uma view com o Android Studio. O qual irei explicar o passo a passo.
 
+Caso Queira jogar meu jogo, ou ver o código-fonte completo. Entre em contato comigo que posso disponibilizar o arquivo completo através de .zip
+
 # Como Exportar o projeto Unity para o Android Studio
 Tendo finalizado seu projeto no Unity, vá em:
 File > Build Profiles > Em Platforms, selecione Android > Marque a Checkbox "Export Project" > Se for publicar no Google Play, marque a CheckBox "Export for App Bundle" > Salve em uma nova pasta vazia
